@@ -43,7 +43,33 @@ print("")
 n=5
 for i in range(n):
     for j in range(i+1):
+        print(' ',end=' ')
+    for j in range(i,n):
+        print('*',end=' ')
+    print()
+
+    print(" ")
+n = 5
+
+for i in range(n):
+    # print spaces
+    for j in range(i):
+        print("  ", end="")
+        
+    # print stars
+    for j in range(n - i):
+        print("* ", end="")
+        
+    print()
+
+
+#hill pattern
+n=5
+for i in range(n):
+    for j in range (i,n):
         print(" ",end=' ')
-    for k in range(i-1,n):
+    for j in range(i):
+        print('*',end=' ')
+    for j in range(i+1):
         print('*',end=' ')
     print()
