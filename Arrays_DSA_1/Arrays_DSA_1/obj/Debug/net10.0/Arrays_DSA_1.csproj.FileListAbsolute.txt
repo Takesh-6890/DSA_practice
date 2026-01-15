@@ -1,0 +1,15 @@
+T:\LeT's_STarT\dot_net\C#\OOPs\Arrays_DSA_1\Arrays_DSA_1\bin\Debug\net10.0\Arrays_DSA_1.exe
+T:\LeT's_STarT\dot_net\C#\OOPs\Arrays_DSA_1\Arrays_DSA_1\bin\Debug\net10.0\Arrays_DSA_1.deps.json
+T:\LeT's_STarT\dot_net\C#\OOPs\Arrays_DSA_1\Arrays_DSA_1\bin\Debug\net10.0\Arrays_DSA_1.runtimeconfig.json
+T:\LeT's_STarT\dot_net\C#\OOPs\Arrays_DSA_1\Arrays_DSA_1\bin\Debug\net10.0\Arrays_DSA_1.dll
+T:\LeT's_STarT\dot_net\C#\OOPs\Arrays_DSA_1\Arrays_DSA_1\bin\Debug\net10.0\Arrays_DSA_1.pdb
+T:\LeT's_STarT\dot_net\C#\OOPs\Arrays_DSA_1\Arrays_DSA_1\obj\Debug\net10.0\Arrays_DSA_1.GeneratedMSBuildEditorConfig.editorconfig
+T:\LeT's_STarT\dot_net\C#\OOPs\Arrays_DSA_1\Arrays_DSA_1\obj\Debug\net10.0\Arrays_DSA_1.AssemblyInfoInputs.cache
+T:\LeT's_STarT\dot_net\C#\OOPs\Arrays_DSA_1\Arrays_DSA_1\obj\Debug\net10.0\Arrays_DSA_1.AssemblyInfo.cs
+T:\LeT's_STarT\dot_net\C#\OOPs\Arrays_DSA_1\Arrays_DSA_1\obj\Debug\net10.0\Arrays_DSA_1.csproj.CoreCompileInputs.cache
+T:\LeT's_STarT\dot_net\C#\OOPs\Arrays_DSA_1\Arrays_DSA_1\obj\Debug\net10.0\Arrays_DSA_1.sourcelink.json
+T:\LeT's_STarT\dot_net\C#\OOPs\Arrays_DSA_1\Arrays_DSA_1\obj\Debug\net10.0\Arrays_DSA_1.dll
+T:\LeT's_STarT\dot_net\C#\OOPs\Arrays_DSA_1\Arrays_DSA_1\obj\Debug\net10.0\refint\Arrays_DSA_1.dll
+T:\LeT's_STarT\dot_net\C#\OOPs\Arrays_DSA_1\Arrays_DSA_1\obj\Debug\net10.0\Arrays_DSA_1.pdb
+T:\LeT's_STarT\dot_net\C#\OOPs\Arrays_DSA_1\Arrays_DSA_1\obj\Debug\net10.0\Arrays_DSA_1.genruntimeconfig.cache
+T:\LeT's_STarT\dot_net\C#\OOPs\Arrays_DSA_1\Arrays_DSA_1\obj\Debug\net10.0\ref\Arrays_DSA_1.dll
